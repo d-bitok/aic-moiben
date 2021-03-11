@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "aic-moiben-tc",
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
